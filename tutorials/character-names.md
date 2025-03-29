@@ -46,5 +46,5 @@ Provide the prompt we just had GPT generate.
 <img src="Bleepi-Background-DALLE.png" height="300"/>
 
 ### Example Image (Midjourney)
-<img src="Bleepi-background-Midjourney.png" height="300"/>
+<img src="Bleepi-Background-Midjourney.png" height="300"/>
 
