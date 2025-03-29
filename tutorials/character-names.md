@@ -13,12 +13,12 @@ Provide as much detail as you can about the character.  Ideally, upload images a
 > The word "Bleepi" in a bold, futuristic rounded font, glowing light cyan with soft blue highlights, bubbly and playful typography, friendly and energetic tech aesthetic, slight drop shadow for depth, minimal accents like circuit lines or pixel sparkles, centered on a pure white background, ultra-clean design --ar 16:4
 
 ### Example Image (ChatGPT)
-<img src="bleepi-nametag-DALLE.png" 
+<img src="Bleepi-Nametag-DALLE.png" 
     alt="A generated image of the text 'Bleepi'" 
     height="100"/>
 
 ### Example Image (Midjourney)
-<img src="bleepi-nametag-Midjourney.png" 
+<img src="Bleepi-Nametag-Midjourney.png" 
     alt="A generated image of the text 'Bleepi'" 
     height="100"/>
 
